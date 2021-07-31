@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MCPEAbdu77 or also known as MCA7 / Ab.
 - 👀 I’m interested in coding PMMP plugins and custom made MadCommands.
 - 🌱 I’m currently learning PMMP API.
-- 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me? EMAIL: abdu77mcpe@gmail.com | Discord: MCA7#1245
 
 <!---
