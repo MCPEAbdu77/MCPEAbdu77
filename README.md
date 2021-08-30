@@ -1,7 +1,3 @@
-The worst coder in the history of pocketmine.
+[![Github stats](https://github-readme-stats.vercel.app/api?username=MCPEAbdu77&theme=dark&count_private=true&include_all_commits=true)](#)
 
-
-<!---
-MCPEAbdu77/MCPEAbdu77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![TOP LANGUAGE](https://github-readme-stats.vercel.app/api/top-langs/?username=MCPEAbdu77&layout=compact&theme=dark&langs_count=10)](#)
